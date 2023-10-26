@@ -7,7 +7,7 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 
-<br/>
+
 
 ### About Me 🚀
 🎓 I’m an Full Stack Developer
