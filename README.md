@@ -14,8 +14,11 @@
 <p align="left">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikhil04-india&show_icons=true&theme=tokyonight"/>
- [![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil04-india&theme=tokyonight)](https://git.io/streak-stats)
-  
+  <br>
+<!--  ##GitHub Streak 
+  <a href="https://git.io/streak-stats">
+  <img width="48%" src="https://streak-stats.demolab.com?user=Nikhil04-india&theme=tokyonight" alt="GitHub Streak" /></a>
+  -->
 </p>
 
 
