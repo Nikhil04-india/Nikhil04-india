@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a crypto exchange website using React.js. <br>👯 I’m looking to collaborate on projects that push the boundaries of web technology.<br>🤝 I’m looking for help with backend development and blockchain integration.<br>🌱 I’m currently learning advanced React.js techniques and blockchain technology.<br>💬 Ask me about cryptocurrency, web development, and React.js.<br> ⚡ Fun fact: I once hiked to the top of a mountain before sunrise just to catch the perfect view!
+<br>👯 I’m looking to collaborate on projects that push the boundaries of web technology.<br>🤝 I’m looking for help with backend development and blockchain integration.<br>🌱 I’m currently learning advanced React.js techniques and blockchain technology.<br>💬 Ask me about cryptocurrency, web development, and React.js.<br> ⚡ Fun fact: I once hiked to the top of a mountain before sunrise just to catch the perfect view!
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nikhil04-india&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhil04-india&icon=0&color=0)](https://visitcount.itsvg.in)
